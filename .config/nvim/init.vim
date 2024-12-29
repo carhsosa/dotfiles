@@ -2,8 +2,8 @@ set nu
 set rnu
 set tabstop=4
 set shiftwidth=4
+set expandtab
 set showmatch
-set smarttab
 set laststatus=2
 set smartindent
 set clipboard=unnamedplus
