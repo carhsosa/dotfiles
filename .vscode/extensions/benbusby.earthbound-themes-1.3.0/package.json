@@ -1,0 +1,116 @@
+{
+	"name": "earthbound-themes",
+	"displayName": "Earthbound Themes",
+	"description": "Unique color themes inspired by the SNES game Earthbound",
+	"version": "1.3.0",
+	"publisher": "benbusby",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/benbusby/earthbound-themes"
+	},
+	"engines": {
+		"vscode": "^1.34.0"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Light Theme",
+		"Earthbound",
+		"SNES",
+		"Super Nintendo",
+		"Accessible Theme",
+		"Vibrant",
+		"Video Game",
+		"Monochrome",
+		"Night Theme"
+	],
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#1c0037",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "vscode-icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Earthbound - Main",
+				"uiTheme": "vs-dark",
+				"path": "./themes/earthbound.json"
+			},
+			{
+				"label": "Earthbound - Main (Darker)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/earthbound-darker.json"
+			},
+			{
+				"label": "Earthbound - Fire Spring",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fire-spring.json"
+			},
+			{
+				"label": "Earthbound - Fire Spring (Darker)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fire-spring-darker.json"
+			},
+			{
+				"label": "Earthbound - Moonside",
+				"uiTheme": "vs-dark",
+				"path": "./themes/moonside.json"
+			},
+			{
+				"label": "Earthbound - Zombie Threed",
+				"uiTheme": "vs-dark",
+				"path": "./themes/threed.json"
+			},
+			{
+				"label": "Earthbound - Zombie Threed (Darker)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/threed-darker.json"
+			},
+			{
+				"label": "Earthbound - Devil's Machine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/devils-machine.json"
+			},
+			{
+				"label": "Earthbound - Dusty Dunes",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dusty-dunes.json"
+			},
+			{
+				"label": "Earthbound - Dusty Dunes (Darker)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dusty-dunes-darker.json"
+			},
+			{
+				"label": "Earthbound - Magicant",
+				"uiTheme": "vs",
+				"path": "./themes/magicant.json"
+			},
+			{
+				"label": "Earthbound - Cave of the Past",
+				"uiTheme": "vs",
+				"path": "./themes/cave-of-the-past.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f85d5ec7-e1e0-4808-804f-c5ef765ef981",
+		"publisherId": "ffd9de01-0cab-4105-ac6c-6c2dd471c9fc",
+		"publisherDisplayName": "Ben Busby",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1735470342711,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}
