@@ -1,27 +1,27 @@
-.config/Code/Cache/
-.config/Code/CachedData/
-.config/Code/CachedProfilesData/
-.config/Code/Code Cache/
-.config/Code/Cookies
-.config/Code/Cookies-journal
-.config/Code/Crashpad/
-.config/Code/DawnGraphiteCache/
-.config/Code/DawnWebGPUCache/
-.config/Code/Dictionaries/
-.config/Code/GPUCache/
-.config/Code/Local Storage/
-.config/Code/Network Persistent State
-.config/Code/Preferences
-.config/Code/Service Worker/
-.config/Code/Session Storage/
-.config/Code/Shared Dictionary/
-.config/Code/TransportSecurity
-.config/Code/Trust Tokens
-.config/Code/Trust Tokens-journal
-.config/Code/User/globalStorage/
-.config/Code/User/workspaceStorage/
-.config/Code/WebStorage/
-.config/Code/languagepacks.json
-.config/Code/logs/
-.config/Code/machineid
+Cache/
+CachedData/
+CachedProfilesData/
+Code Cache/
+Cookies
+Cookies-journal
+Crashpad/
+DawnGraphiteCache/
+DawnWebGPUCache/
+Dictionaries/
+GPUCache/
+Local Storage/
+Network Persistent State
+Preferences
+Service Worker/
+Session Storage/
+Shared Dictionary/
+TransportSecurity
+Trust Tokens
+Trust Tokens-journal
+User/globalStorage/
+User/workspaceStorage/
+WebStorage/
+languagepacks.json
+logs/
+machineid
 .vscode/argv.json
