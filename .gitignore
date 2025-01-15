@@ -23,5 +23,6 @@
 .config/Code/WebStorage/
 .config/Code/languagepacks.json
 .config/Code/logs/
+.config/Code/CachedExtensionVSIXs/
 .config/Code/machineid
 .vscode/argv.json

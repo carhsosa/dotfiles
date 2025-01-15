@@ -2,4 +2,4 @@ URxvt*scrollBar: false
 URxvt*background: #000000
 URxvt*.foreground: #FFFFFF
 URxvt.depth: 32
-URxvt.font: xft:Hack Nerd Font Mono:size=10
+URxvt.font: xft:Hack Nerd Font Mono:size=12
