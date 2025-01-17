@@ -25,4 +25,9 @@
 .config/Code/logs/
 .config/Code/CachedExtensionVSIXs/
 .config/Code/machineid
+.config/Code/SharedStorage
+.config/Code/SharedStorage-wal
+.config/Code/User/History/
+.config/Code/code.lock
+.vscode/extensions/.obsolete
 .vscode/argv.json
