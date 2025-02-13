@@ -1,4 +1,5 @@
 .config/Code/Cache/
+.config/Code/Backups/
 .config/Code/CachedData/
 .config/Code/CachedProfilesData/
 .config/Code/Code Cache/
