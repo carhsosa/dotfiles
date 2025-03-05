@@ -7,8 +7,8 @@
 setxkbmap -option caps:escape
 export VISUAL=nvim
 export EDITOR=nvim
-alias cursor='/home/chs/Applications/cursor-0.45.14x86_64.AppImage --no-sandbox&'
 alias vim="nvim"
+
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
