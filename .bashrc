@@ -7,6 +7,7 @@
 setxkbmap -option caps:escape
 export VISUAL=nvim
 export EDITOR=nvim
+alias cursor='/home/chs/Applications/cursor-0.45.14x86_64.AppImage --no-sandbox&'
 alias vim="nvim"
 # If not running interactively, don't do anything
 case $- in
@@ -121,3 +122,11 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# pnpm
+export PNPM_HOME="/home/chs/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
