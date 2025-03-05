@@ -10,5 +10,4 @@ set clipboard=unnamedplus
 set nohlsearch
 set cc=80
 syntax on
-colorscheme vim
 highlight ColorColumn ctermbg=darkgray
