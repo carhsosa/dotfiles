@@ -1,9 +1,0 @@
-{
-    "editor.minimap.enabled": false,
-    "editor.lineNumbers": "relative",
-    "vim.useSystemClipboard": true,
-    "explorer.confirmDelete": true,
-    "keyboard.dispatch": "keyCode",
-    "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Earthbound - Moonside"
-}
