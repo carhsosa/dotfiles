@@ -1,0 +1,7 @@
+{
+    "window.commandCenter": 1,
+    "workbench.colorTheme": "Earthbound - Moonside",
+    "editor.lineNumbers": "relative",
+    "vim.useSystemClipboard": true,
+    "keyboard.dispatch": "keyCode"
+}
