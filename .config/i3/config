@@ -141,7 +141,7 @@ bindsym $mod+Shift+8 move container to workspace number 8
 bindsym $mod+Shift+9 move container to workspace number 9
 bindsym $mod+Shift+0 move container to workspace number 0
 
-bindsym $mod+Shift+n exec i3-input -F 'rename workspace to "'`i3-msg -t get_workspaces | jq '.[] | select(.visible == true)' | jq .num`': %s"' -P "new name? "
+bindsym $mod+Shift+n exec --no-startup-id ~/.config/i3/rename_workspace.sh
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
