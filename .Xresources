@@ -3,3 +3,6 @@ URxvt*background: #000000
 URxvt*.foreground: #FFFFFF
 URxvt.depth: 32
 URxvt.font: xft:Monospace:size=12
+
+! Stops prompt from being in middle
+URxvt.geometry: 400x400
