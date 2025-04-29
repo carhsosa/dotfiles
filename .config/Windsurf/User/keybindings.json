@@ -3,6 +3,37 @@
     {
         "key": "ctrl+shift+k",
         "command": "windsurf.prioritized.command.open"
+    },
+    {
+
+        "key": "ctrl+h",
+
+        "command": "workbench.action.navigateLeft"
+
+    },
+ 
+    {
+        "key": "ctrl+l",
+        "command": "workbench.action.navigateRight"
+    },
+ 
+    {
+        "key": "ctrl+k",
+        "command": "workbench.action.navigateUp"
+    },
+    {
+        "key": "ctrl+j",
+        "command": "workbench.action.navigateDown"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "windsurf.prioritized.chat.open",
+        "when": "!terminalFocus"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "-windsurf.prioritized.chat.open",
+        "when": "!terminalFocus"
     }
 ]
 
