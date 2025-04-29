@@ -1,7 +1,8 @@
 // Place your key bindings in this file to override the defaults
 [
     {
-        "key": "ctrl+k",
+        "key": "ctrl+shift+k",
         "command": "windsurf.prioritized.command.open"
     }
 ]
+
